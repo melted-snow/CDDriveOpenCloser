@@ -1,0 +1,1 @@
+powershell -WindowStyle hidden -ExecutionPolicy Bypass -Command ".\cddrive.ps1"
